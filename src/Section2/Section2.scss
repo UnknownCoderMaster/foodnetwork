@@ -1,0 +1,51 @@
+.container:nth-child(3){
+  .text3{
+    color: #DC780B;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 7px;
+    letter-spacing: 3px;
+  }
+  .text4{
+    font-family: "Philosopher", sans-serif;
+    font-size: 31.25px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+      .card{
+        display: flex;
+        align-items: center;
+        border: 0;
+        padding: 33px;
+        box-sizing: border-box;
+        .circle{
+          width: 88px;
+          height: 88px;
+          border-radius: 50%;
+          background-color: #8FA632;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-bottom: 33px;
+        }
+        .circle1{
+          background-color: #E64D2E;
+        }
+        .circle2{
+          background-color: #DC780B;
+        }
+        .circle-body{
+          text-align: center;
+          .text5{
+            font-family: "Philosopher",sans-serif;
+            font-size: 25px;
+            margin-bottom: 15px;
+          }
+          .text6{
+            font-family: "Roboto",sans-serif;
+            font-size: 16px;
+          }
+        }
+      }
+}

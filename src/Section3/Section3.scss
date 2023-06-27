@@ -1,0 +1,37 @@
+.container:nth-child(4){
+  margin-top: 108px;
+  .item1{
+    padding-right: 43px;
+    box-sizing: border-box;
+    img{
+      border-radius: 35px;
+    }
+  }
+  .item2{
+    padding-left: 43px;
+    box-sizing: border-box;
+    .text7{
+      font-family: "Roboto",sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      letter-spacing: 0.2em;
+      color: #DC780B;
+    }
+    .text8{
+      font-family: "Philosopher",sans-serif;
+      font-size: 31.25px;
+      font-weight: 700;
+      line-height: 41px;
+      margin-bottom: 30px;
+    }
+    .text9{
+      font-family: "Roboto",sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 24px;
+      color: #150C01;
+      margin-bottom: 30px;
+    }
+  }
+}
